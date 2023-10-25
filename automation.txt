@@ -1,2 +1,3 @@
 #!/bin/bash
 "This is an Automation Project!"
+"We are deploying the into terraform through jenkins pipeline"
